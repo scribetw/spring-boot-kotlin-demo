@@ -1,6 +1,8 @@
 spring-boot-kotlin-demo
 =======================
 
+[![Build Status](https://travis-ci.org/scribetw/spring-boot-kotlin-demo.svg)](https://travis-ci.org/scribetw/spring-boot-kotlin-demo)
+
 What is it?
 -----------
 
