@@ -24,5 +24,3 @@ License
 -------
 
 The 3-Clause BSD License.
-
-
